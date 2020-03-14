@@ -8,5 +8,3 @@ redirect_from:
 ---
 
 [Download CV here](http://_fesobolak.github.io/files/CV_Sobolak_jan2020.pdf)
-
-Hi dad !!!
