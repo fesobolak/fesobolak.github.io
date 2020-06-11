@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Frances Ellie Sobolak"
-  avatar           : "profile.png"
+  avatar           : "fran1.png"
   bio              : "morphosyntax//Agreement//language documentation"
   location         : "Cornell University"
   employer         :
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
