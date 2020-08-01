@@ -1,7 +1,7 @@
 ---
 title: "Parallels between passive allomorphy and object agreement in Montana Salish"
-collection: publications
-permalink: /publications/2020-parallels-between-passive-allomorphy-and-object-agreement
+collection: research
+permalink: /research/2020-parallels-between-passive-allomorphy-and-object-agreement
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-07-30
 venue: 'International Conference of Salish and Neighboring Languages'
