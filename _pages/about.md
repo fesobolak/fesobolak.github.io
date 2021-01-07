@@ -9,4 +9,8 @@ redirect_from:
 ---
 
 
-I am a third year Linguistics PhD student at Cornell University. My interests include morphology, morphosyntax, and indigenous languages. My research goals extend beyond my theoretical interests, though. I like to consider the bridge between fieldwork linguists and the computational side of building websites for language learning material, online dictionaries, texts and audio, etc. I am currently focused on learning the computational skills necessary in order to foster that bridge (such as Python and corpus-based tools).
+I am a third year Linguistics PhD student at Cornell University. My theoretical interests include morphology, morphosyntax, and the syntax-semantics interface. My research goals extend beyond my theoretical interests. I spend much of my time working with Indigenous language data, with the ultimate goal of language documentation and revitalization.
+
+I acknowledge the Bitterroot, Upper Pend d'Oreille, and Kootenia tribes whose language, Montana Salish, I research.
+
+Cornell University is located on Gayogo̱hó:nǫ́ land. The Gayogo̱hó꞉nǫ' presence here, where I live and work, precedes the establishment of Cornell University, New York State, and the United States of America.
