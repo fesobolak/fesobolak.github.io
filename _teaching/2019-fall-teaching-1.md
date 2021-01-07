@@ -9,11 +9,5 @@ location: "Ithaca, New York"
 
 Fall 2019 semester. 
 
-Heading 1
-======
+Course title: Language, Myth, and Reality
 
-Heading 2
-======
-
-Heading 3
-======
