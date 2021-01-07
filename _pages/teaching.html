@@ -5,12 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-First Year Writing Seminar
-Fall 2020
-Sole instructor 
-Course title: Language, Myth and Reality
+{% include base_path %}
 
-First Year Writing Seminar 
-Fall 2019
-Sole instructor
-Course title: Language, Myth and Reality
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
