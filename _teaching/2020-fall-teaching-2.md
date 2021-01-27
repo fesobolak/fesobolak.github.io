@@ -7,6 +7,6 @@ venue: "Cornell University"
 location: "Ithaca, New York"
 ---
 
-Fall 2020 semester. 
+Fall 2020 semester -- online
 
 Course Title: Language, Myth, and Reality
