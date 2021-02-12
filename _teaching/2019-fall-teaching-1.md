@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "Cornell University"
-location: "Ithaca, New York"
 ---
 
 Fall 2019 semester. 
